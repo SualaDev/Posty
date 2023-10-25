@@ -485,6 +485,9 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
 .flex {
   display: flex;
 }
@@ -494,9 +497,9 @@ video {
 .justify-between {
   justify-content: space-between;
 }
-.bg-gray-100 {
+.bg-gray-200 {
   --tw-bg-opacity: 1;
-  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
 .bg-white {
   --tw-bg-opacity: 1;
